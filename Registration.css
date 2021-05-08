@@ -1,0 +1,42 @@
+body
+{
+background:white;
+}
+table
+{
+background:black;
+padding:50px;
+width:500px;
+font-size:20px;
+color:white;
+border-radius:10px;
+}
+input
+{
+padding:6px;
+width:100%;
+border:none;
+}
+.submitbtn
+{
+width:20%;
+margin-left:150px;
+background:green;
+color:white;
+border:none;
+padding:10px;
+border-radius:10px;
+cursor: pointer;
+}
+.submitbtn:hover{
+    background-color: white;
+    color:black;
+}
+.box{
+    background:black;
+    padding:50px;
+    margin:auto;
+    color:white;
+    box-shadow:0 0 20px #DCE9F8;
+
+}
